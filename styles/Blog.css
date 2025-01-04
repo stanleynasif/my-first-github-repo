@@ -7,8 +7,38 @@ header{
 }
 .type1{
     background-color: transparent;
+    text-decoration: none;
 }
 button{
+    background-color: rgb(25, 26, 26);
     border-radius: 10px;
     box-shadow: 5px 5px 10px rgb(25, 26, 26);
+    padding: 5px;
 }
+.type2{
+    border: 5px solid rgb(25, 26, 26);
+    padding: 10px;
+    margin: 10px 100px;
+    text-align: justify;
+    background-color: darkslategrey;
+}
+.type3{
+    border: 5px solid rgb(25, 26, 26);
+    padding: 10px;
+    margin: 10px 100px;
+    text-align: justify;
+    background-color: rgb(47, 56, 79);
+}
+.type4{
+    border: 5px solid rgb(25, 26, 26);
+    padding: 10px;
+    margin: 10px 100px;
+    text-align: justify;
+    background-color: rgb(47, 79, 56);
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
