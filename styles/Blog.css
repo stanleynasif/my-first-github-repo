@@ -1,0 +1,14 @@
+header{
+    height: 70px;
+    width: 100%;
+    background-color: darkslategrey;
+    padding: 1rem;
+    text-align: center;
+}
+.type1{
+    background-color: transparent;
+}
+button{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgb(25, 26, 26);
+}
